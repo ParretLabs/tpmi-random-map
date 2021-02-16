@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "cave-automata-2d": "^0.3.1",
+    "ndarray-fill": "^1.0.2",
+    "node-fetch": "^2.6.1",
+    "pngjs-image": "^0.11.7",
+    "zeros": "^1.0.0"
+  }
+}
